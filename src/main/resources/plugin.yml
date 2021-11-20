@@ -1,0 +1,13 @@
+name: FadeBans
+version: '${project.version}'
+main: me.aqua.fadebans.FadeBans
+api-version: 1.16
+authors: [ AquA_iReapzZ ]
+description: A better way to punish players
+
+
+commands:
+  fademute:
+    description: idc
+    aliases: [fml]
+
